@@ -1,0 +1,13 @@
+{
+  "name": "vue-node-elm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "debug": "node src/app.js"
+  },
+  "devDependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
